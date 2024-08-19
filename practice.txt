@@ -1,0 +1,5 @@
+CI means
+(3507, 3596), CI median (1040, 1100)
+
+CI means
+(271, 360), CI median (118, 120)
